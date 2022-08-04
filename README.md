@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @LanzPovey
 - 👀 I’m interested in coding with C# with the Visual Basic IDE by Microsoft, Java by Oracle with the Net Beans IDE and HTML for websites
 - https://lanzpovey.wordpress.com/
