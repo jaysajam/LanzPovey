@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LanzPovey)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @LanzPovey
 - 👀 I’m interested in coding with C# with the Visual Basic IDE by Microsoft, Java by Oracle with the Net Beans IDE and HTML for websites
@@ -9,6 +9,8 @@
 - 📫 How to reach me 
 - Via Linkedin: 
 - https://www.linkedin.com/in/lanzp/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 LanzPovey/LanzPovey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
